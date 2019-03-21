@@ -1,6 +1,6 @@
 ### :octocat: Git Your Practice On!
 
-* Git Reference [http://gitref.org/basic](http://gitref.org/basic)
+* Git Reference [https://help.github.com/categories/github-pages-basics/](https://help.github.com/categories/github-pages-basics/)
 * Pro Git Online Book [http://git-scm.com/book](http://git-scm.com/book)
 * Git Ready [http://gitready.com](http://gitready.com)
 * Quick Command Practice [http://try.github.com](http://try.github.com)
@@ -11,6 +11,7 @@
 * Git: The Simple Guide [http://rogerdudler.github.com/git-guide](http://rogerdudler.github.com/git-guide)
 * Git Immersion [http://gitimmersion.com](http://gitimmersion.com)
 * Git Branching [http://pcottle.github.io/learnGitBranching/](http://pcottle.github.io/learnGitBranching/)
+* Git Cheat Sheet [https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
 
 Welcome to my practice git repository where you can eff up as much as you'd like plus work with a real, living, breathing person on the other side.
@@ -343,3 +344,4 @@ git help
 ```bash
 git help <command>
 ```
+#### Nasty link
